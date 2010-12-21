@@ -1,0 +1,67 @@
+8
+
+dir
+1137
+https://arducopter.googlecode.com/svn/trunk/libraries/GPS_MTK
+https://arducopter.googlecode.com/svn
+
+
+
+2010-09-04T14:56:48.879817Z
+382
+deweibel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c3cf11-9bcb-44bc-f272-b75c42450872
+
+GPS_MTK.cpp
+file
+
+
+
+
+2010-09-03T03:53:14.000000Z
+3740c1665bb7bdacef02671f78f5c20f
+2010-09-02T23:29:32.854758Z
+377
+deweibel
+
+keywords.txt
+file
+
+
+
+
+2010-08-13T13:30:07.000000Z
+362a9bfa6fe33f3743adc865178d7fc0
+2010-08-13T07:00:49.569375Z
+87
+analoguedevices
+
+GPS_MTK.h
+file
+
+
+
+
+2010-07-18T00:55:17.000000Z
+1e44927c6780218f39f0b6ac24be6233
+2010-07-17T23:31:03.664858Z
+48
+analoguedevices
+
+examples
+dir
+

@@ -1,18 +1,18 @@
-10
+8
 
 dir
-536
+1137
 https://arducopter.googlecode.com/svn/trunk/libraries/AP_Compass
 https://arducopter.googlecode.com/svn
 
 
 
-2010-08-30T00:18:56.905472Z
-353
-jasonshort
+2010-12-12T14:02:21.776987Z
+1113
+rmackay9@yahoo.com
 
 
-
+svn:special svn:externals svn:needs-lock
 
 
 
@@ -26,73 +26,65 @@ jasonshort
 
 f9c3cf11-9bcb-44bc-f272-b75c42450872
 
+AP_Compass_HMC5843.cpp
+file
+
+
+
+
+2010-12-02T08:30:10.000000Z
+a1715167804a05f333d7f4cfcbbe59ef
+2010-12-02T06:23:56.678683Z
+1003
+james.goppert
+
+AP_Compass_HIL.cpp
+file
+
+
+
+
+2010-12-02T08:30:10.000000Z
+4f03092c532264b6eb03c1a3043ce933
+2010-12-02T06:23:56.678683Z
+1003
+james.goppert
+
 keywords.txt
 file
 
 
 
 
-2010-08-31T21:04:30.734083Z
-005df13a5aa6ad92c5bf8bb0acb4b9b0
-2010-08-29T23:03:49.112600Z
-347
-jasonshort
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-225
+2010-12-15T11:56:19.000000Z
+2608e7f66816355bfdad9d0769b0ab26
+2010-12-12T14:02:21.776987Z
+1113
+rmackay9@yahoo.com
 
-AP_Compass.cpp
+AP_Compass_HMC5843.h
 file
 
 
 
 
-2010-08-31T21:04:30.738083Z
-1c6f57e113ec5071b7bac52848df5a1a
-2010-08-30T00:18:56.905472Z
-353
+2010-12-02T08:30:10.000000Z
+94f7a0b72161297d9c2dcd2407bd13c7
+2010-12-02T05:54:02.039599Z
+1001
 jasonshort
+
+AP_Compass_HIL.h
+file
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3143
+2010-12-02T08:30:10.000000Z
+fbf9a96f6099bcee146f4267f9004fe9
+2010-12-02T05:54:02.039599Z
+1001
+jasonshort
 
 Compass.h
 file
@@ -100,33 +92,11 @@ file
 
 
 
-2010-08-31T21:04:30.763084Z
-13f9d227596571a9117d1ccf884e772c
-2010-08-30T00:09:47.806286Z
-348
-jasonshort
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-340
+2010-12-15T11:56:19.000000Z
+45267c953cd88a0df22a48f8dde80bce
+2010-12-12T14:02:21.776987Z
+1113
+rmackay9@yahoo.com
 
 AP_Compass.h
 file
@@ -134,33 +104,11 @@ file
 
 
 
-2010-08-31T21:04:30.768085Z
-584cc91b6689400440129679a82d44cc
-2010-08-29T23:03:49.112600Z
-347
-jasonshort
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-254
+2010-12-02T08:30:10.000000Z
+c144be05a6b32bccb52205d1314d8a4e
+2010-12-02T05:13:12.436944Z
+995
+james.goppert
 
 examples
 dir

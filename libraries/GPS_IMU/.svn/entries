@@ -1,0 +1,70 @@
+8
+
+dir
+1137
+https://arducopter.googlecode.com/svn/trunk/libraries/GPS_IMU
+https://arducopter.googlecode.com/svn
+
+
+
+2010-09-19T03:06:46.445576Z
+529
+rmackay9@yahoo.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c3cf11-9bcb-44bc-f272-b75c42450872
+
+GPS_IMU.cpp
+file
+
+
+
+
+2010-08-30T10:38:55.000000Z
+5cae45e989a7addb267650e5966371c0
+2010-08-30T00:15:54.240127Z
+349
+jasonshort
+has-props
+
+keywords.txt
+file
+
+
+
+
+2010-09-23T03:32:34.000000Z
+b8e7b7d1be9776b516c3ce54cc82dfb8
+2010-09-19T03:06:46.445576Z
+529
+rmackay9@yahoo.com
+has-props
+
+GPS_IMU.h
+file
+
+
+
+
+2010-08-30T10:38:55.000000Z
+2e3c678490919591c218e6df72969ed1
+2010-08-30T01:23:50.437511Z
+354
+analoguedevices
+has-props
+
+examples
+dir
+

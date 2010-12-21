@@ -1,0 +1,67 @@
+8
+
+dir
+1137
+https://arducopter.googlecode.com/svn/trunk/libraries/GPS_UBLOX
+https://arducopter.googlecode.com/svn
+
+
+
+2010-08-26T02:19:30.017349Z
+316
+jasonshort
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9c3cf11-9bcb-44bc-f272-b75c42450872
+
+GPS_UBLOX.cpp
+file
+
+
+
+
+2010-08-26T14:14:54.000000Z
+8a79f78da718fb073bc9b07c56f342c3
+2010-08-26T02:19:30.017349Z
+316
+jasonshort
+
+keywords.txt
+file
+
+
+
+
+2010-06-20T04:23:07.000000Z
+9efabff652588605594532f55bd4ce80
+2010-05-28T14:38:51.479541Z
+2
+jjulio1234
+
+GPS_UBLOX.h
+file
+
+
+
+
+2010-06-20T04:23:07.000000Z
+e7a64f19c55e214b90da7fa0ee211319
+2010-05-28T14:38:51.479541Z
+2
+jjulio1234
+
+examples
+dir
+

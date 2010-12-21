@@ -1,29 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 44
-/svn/!svn/ver/353/trunk/libraries/AP_Compass
+V 45
+/svn/!svn/ver/1113/trunk/libraries/AP_Compass
+END
+AP_Compass_HMC5843.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1003/trunk/libraries/AP_Compass/AP_Compass_HMC5843.cpp
+END
+AP_Compass_HIL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1003/trunk/libraries/AP_Compass/AP_Compass_HIL.cpp
 END
 keywords.txt
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/!svn/ver/347/trunk/libraries/AP_Compass/keywords.txt
+V 58
+/svn/!svn/ver/1113/trunk/libraries/AP_Compass/keywords.txt
 END
-AP_Compass.cpp
+AP_Compass_HMC5843.h
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/!svn/ver/353/trunk/libraries/AP_Compass/AP_Compass.cpp
+V 66
+/svn/!svn/ver/1001/trunk/libraries/AP_Compass/AP_Compass_HMC5843.h
+END
+AP_Compass_HIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1001/trunk/libraries/AP_Compass/AP_Compass_HIL.h
 END
 Compass.h
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/!svn/ver/348/trunk/libraries/AP_Compass/Compass.h
+V 55
+/svn/!svn/ver/1113/trunk/libraries/AP_Compass/Compass.h
 END
 AP_Compass.h
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/svn/!svn/ver/347/trunk/libraries/AP_Compass/AP_Compass.h
+/svn/!svn/ver/995/trunk/libraries/AP_Compass/AP_Compass.h
 END

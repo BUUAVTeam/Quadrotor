@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1109/trunk/libraries/AP_ADC
+END
+AP_ADC_HIL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1109/trunk/libraries/AP_ADC/AP_ADC_HIL.cpp
+END
+keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/954/trunk/libraries/AP_ADC/keywords.txt
+END
+AP_ADC_ADS7844.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/954/trunk/libraries/AP_ADC/AP_ADC_ADS7844.cpp
+END
+AP_ADC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/954/trunk/libraries/AP_ADC/AP_ADC.cpp
+END
+AP_ADC_HIL.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/963/trunk/libraries/AP_ADC/AP_ADC_HIL.h
+END
+AP_ADC_ADS7844.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/954/trunk/libraries/AP_ADC/AP_ADC_ADS7844.h
+END
+AP_ADC.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/954/trunk/libraries/AP_ADC/AP_ADC.h
+END
