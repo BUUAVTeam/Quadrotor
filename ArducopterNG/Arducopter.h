@@ -355,7 +355,7 @@ int   rightMotor;
 byte  motorArmed = 0;                              // 0 = motors disarmed, 1 = motors armed
 byte  motorSafety = 1;                             // 0 = safety off, 1 = on.  When On, sudden increases in throttle not allowed
 int   minThrottle = 0;
-boolean flightOrientation = 0;                    // 0 = +, 1 = x this is read from DIP1 switch during system bootup
+boolean flightOrientation = 1;                    // 0 = +, 1 = x this is read from DIP1 switch during system bootup
 
 // Serial communication
 char   queryType;
