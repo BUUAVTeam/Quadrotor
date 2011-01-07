@@ -60,10 +60,10 @@ void motor_output()
 #endif
 
     // Quadcopter output mix
-    rightMotor = constrain(throttle + control_pitch - control_roll + control_yaw, minThrottle, 2000);
-    leftMotor = constrain(throttle - control_pitch + control_roll + control_yaw, minThrottle, 2000);
-    frontMotor = constrain(throttle + control_pitch + control_roll - control_yaw, minThrottle, 2000);
-    backMotor = constrain(throttle - control_pitch - control_roll - control_yaw, minThrottle, 2000);
+    rightMotor = constrain(throttle + control_pitch + control_roll + control_yaw, minThrottle, 2000); //Rear Left Puller
+    leftMotor = constrain(throttle - control_pitch - control_roll + control_yaw, minThrottle, 2000); //Front Right Puller
+    frontMotor = constrain(throttle - control_pitch + control_roll - control_yaw, minThrottle, 2000); //Front Left Pusher
+    backMotor = constrain(throttle + control_pitch - control_roll - control_yaw, minThrottle, 2000); // Rear Right Pusher
     
   } else {    // MOTORS DISARMED
 
