@@ -111,7 +111,7 @@ void APM_Init() {
   }
 
 
-  flightOrientation = 1;//SW_DIP1;    // DIP1 off = we are in + mode, DIP1 on = we are in x mode
+  flightOrientation = SW_DIP1;    // DIP1 off = we are in + mode, DIP1 on = we are in x mode
   readUserConfig();               // Load user configurable items from EEPROM
 
   // Safety measure for Channel mids
