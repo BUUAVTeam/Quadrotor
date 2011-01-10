@@ -53,8 +53,8 @@
 //  Modules Config
 // --------------------------
 
-//#define IsGPS       // Do we have a GPS connected
-//#define IsNEWMTEK   // Do we have MTEK with new firmware
+#define IsGPS       // Do we have a GPS connected
+#define IsNEWMTEK   // Do we have MTEK with new firmware
 #define IsMAG       // Do we have a Magnetometer connected, if have remember to activate it from Configurator
 //#define IsAM        // Do we have motormount LED's. AM = Atraction Mode
 //#define IsCAM       // Do we have camera stabilization in use, If you activate, check OUTPUT pins from ArduUser.h
@@ -104,7 +104,7 @@
 
 // Serial data, do we have FTDI cable or Xbee on Telemetry port as our primary command link
 // If we are using normal FTDI/USB port as our telemetry/configuration, keep next line disabled
-#define SerXbee
+//#define SerXbee
 
 // Telemetry port speed, default is 115200
 //#define SerBau  19200
@@ -144,9 +144,9 @@
 // Magneto orientation and corrections.
 // If you don't have magneto activated, It is safe to ignore these
 //#ifdef IsMAG
-//#define MAGORIENTATION  AP_COMPASS_COMPONENTS_UP_PINS_FORWARD       // This is default solution for ArduCopter
+#define MAGORIENTATION  AP_COMPASS_COMPONENTS_UP_PINS_FORWARD       // This is default solution for ArduCopter
 //#define MAGORIENTATION  AP_COMPASS_COMPONENTS_UP_PINS_BACK        // Alternative orientation for ArduCopter
-#define MAGORIENTATION  AP_COMPASS_COMPONENTS_DOWN_PINS_FORWARD    // If you have soldered Magneto to IMU shield in WIki pictures shows
+//#define MAGORIENTATION  AP_COMPASS_COMPONENTS_DOWN_PINS_FORWARD    // If you have soldered Magneto to IMU shield in WIki pictures shows
 
 // To get Magneto offsets, switch to CLI mode and run offset calibration. During calibration
 // you need to roll/bank/tilt/yaw/shake etc your ArduCopter. Don't kick like Jani always does :)
